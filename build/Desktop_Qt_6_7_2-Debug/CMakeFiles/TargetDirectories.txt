@@ -1,0 +1,9 @@
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/pangolin.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/edit_cache.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/rebuild_cache.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/list_install_components.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/local.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/install/strip.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/pangolin_autogen_timestamp_deps.dir
+/home/remy/documents/cours/2024-2025/IGR/CSC_4IG02_TP/drawing/pangolin/build/Desktop_Qt_6_7_2-Debug/CMakeFiles/pangolin_autogen.dir
